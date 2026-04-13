@@ -1,4 +1,4 @@
-# Metadata Analysis – PwnTillDawn
+# Metadata Analysis
 
 ## Objective
 The objective of this task is to analyze hidden metadata and embedded information within different file types using various forensic tools.
